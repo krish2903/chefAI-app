@@ -1,4 +1,4 @@
-# IntelliChef
+# IntelliChef (Incomplete Project)
 ### Your Personalised AI Chef
 For university students travelling internationally or living on campus, it must be difficult to cook yourself sometimes, especially with no experience.
 Why not create our own community to share with others your secret recipes and cooking tips?
