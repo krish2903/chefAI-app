@@ -2,7 +2,7 @@
 ### Your Personalised AI Chef
 For university students travelling internationally or living on campus, it must be difficult to cook yourself sometimes, especially with no experience.
 
-**Why not create our own community to share with others your secret recipes and cooking tips?**
+**Why not create our own community to share our secret recipes and cooking tips?**
 
 **_IntelliChef_** tries to include all cultural nuances and dietary choices, curating recipes for YOUR needs!
 
